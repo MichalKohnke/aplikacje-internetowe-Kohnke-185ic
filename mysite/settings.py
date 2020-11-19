@@ -126,3 +126,6 @@ STATICFILES_DIRS = (
 )
 
 django_heroku.settings(locals())
+
+LOGIN_REDIRECT_URL = 'post_list'
+LOGOUT_REDIRECT_URL = 'post_list' 
