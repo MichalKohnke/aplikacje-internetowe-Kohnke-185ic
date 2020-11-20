@@ -3,6 +3,7 @@
 					Lab1 - index.html
 ![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/Lab1_screeny/index.png)
 
+# Link do strony z lab2 - https://kohnkelab2.herokuapp.com/
 					Lab2 - strona główna 
 ![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab2_screeny/index.png)
 
