@@ -1,14 +1,14 @@
 <html>
     <head>
-        <title>Log In</title>
+        <title>Logowanie</title>
     </head>
     <body>
 		{% block content %}
-		<h2>Log In</h2>
+		<h2>Logowanie</h2>
 		<form method="post">
 		{% csrf_token %}
 		{{ form.as_p }}
-		<button type="submit">Log In</button>
+		<button type="submit">Zaloguj</button>
 		</form>
 		{% endblock content %}
     </body>
