@@ -24,6 +24,17 @@
 								Lab3 - zalogowany przez Facebooka
 ![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab3_screeny/facebook_after_login.png)
 
+								Lab3 - ustawienia aplikacji w Google API
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab3_screeny/google_settings.png)
+
+								Lab3 - ustawienia aplikacji w Facebook Developers
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab3_screeny/facebook_settings.png)
+
+								Lab3 - ustawienia w adminie
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab3_screeny/admin_settings.png)
+
+
+
 
 								Sprawozdanie nr.2
 # Link do strony z lab2 - https://kohnkelab2.herokuapp.com/
