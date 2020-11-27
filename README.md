@@ -1,9 +1,8 @@
 # aplikacje-internetowe-Kohnke-185ic
 # Autor: Michał Kohnke
-					Lab1 - index.html
-![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/Lab1_screeny/index.png)
 
-# Link do strony z lab2 - https://kohnkelab2.herokuapp.com/
+					Sprawozdanie nr.2
+
 					Lab2 - strona główna 
 ![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab2_screeny/index.png)
 
@@ -24,4 +23,11 @@
 
 					Lab2 - przykładowy log z wysłanym mailem o reset hasła
 ![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab2_screeny/sent_emails.png)
+
+					Sprawozdanie nr.1
+
+					Lab1 - index.html
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/Lab1_screeny/index.png)
+
+# Link do strony z lab2 - https://kohnkelab2.herokuapp.com/
 
