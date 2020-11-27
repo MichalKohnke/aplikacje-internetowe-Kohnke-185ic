@@ -56,7 +56,7 @@
 						Lab2 - zmiana hasła
 ![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab2_screeny/password_change.png)
 
-							Lab2 - przykładowy log z wysłanym mailem o reset hasła
+						Lab2 - przykładowy log z wysłanym mailem o reset hasła
 ![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab2_screeny/sent_emails.png)
 
 						Sprawozdanie nr.1
