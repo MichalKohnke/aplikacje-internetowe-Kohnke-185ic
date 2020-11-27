@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>Rejestracja</title>
+    </head>
+    <body>
+		{% block content %}
+		 <h2>Rejestracja</h2>
+		 <form method="post">
+		{% csrf_token %}
+		{{ form.as_p }}
+		<button type="submit">Zarejestruj</button>
+		</form>
+		{% endblock %}
+    </body>
+</html>
