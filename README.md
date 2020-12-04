@@ -4,13 +4,13 @@
 						Sprawozdanie nr.4
 
 						Lab4 - API V1 
-![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/Lab4/lab4_screeny/api_v1.png)
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab4/lab4_screeny/api_v1.png)
 
 						Lab4 - SWAGGER 
-![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/Lab4/lab4_screeny/swagger.png)
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab4/lab4_screeny/swagger.png)
 
 						Lab4 - serializery i zezwolenia
-![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/Lab4/lab4_screeny/serializers_and_permissions.png)
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab4/lab4_screeny/serializers_and_permissions.png)
 
 
 						Sprawozdanie nr.3
