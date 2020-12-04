@@ -1,6 +1,18 @@
 # aplikacje-internetowe-Kohnke-185ic
 # Autor: Michał Kohnke
 
+						Sprawozdanie nr.4
+
+						Lab3 - strona główna 
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/Lab4/lab4_screeny/api_v1.png)
+
+						Lab3 - logowanie 
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/Lab4/lab4_screeny/swagger.png)
+
+						Lab3 - logowanie przez Google
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/Lab4/lab4_screeny/serializers_and_permissions.png)
+
+
 						Sprawozdanie nr.3
 
 						Lab3 - strona główna 
