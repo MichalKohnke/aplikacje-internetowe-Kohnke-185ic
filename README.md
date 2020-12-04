@@ -3,13 +3,13 @@
 
 						Sprawozdanie nr.4
 
-						Lab3 - strona główna 
+						Lab4 - API V1 
 ![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/Lab4/lab4_screeny/api_v1.png)
 
-						Lab3 - logowanie 
+						Lab4 - SWAGGER 
 ![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/Lab4/lab4_screeny/swagger.png)
 
-						Lab3 - logowanie przez Google
+						Lab4 - serializery i zezwolenia
 ![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/Lab4/lab4_screeny/serializers_and_permissions.png)
 
 
