@@ -1,0 +1,15 @@
+myenv/
+env1/
+myvenv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+node_modules/
+lab1/
+lab2/
+lab3/
+lab5/
+Lab1_screeny/
+lab2_screeny/
+lab3_screeny/
