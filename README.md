@@ -1,6 +1,14 @@
 # aplikacje-internetowe-Kohnke-185ic
 # Autor: Michał Kohnke
 
+						Sprawozdanie nr.6
+
+						Lab6 - stworzona podstrona home, użytkownik niezalogowany 
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab6/lab6_screeny/home_unlog.png)
+
+						Lab6 - stworzona podstrona home, użytkownik zalogowany 
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab6/lab6_screeny/home_log.png)
+
 						Sprawozdanie nr.4
 
 						Lab4 - API V1 
