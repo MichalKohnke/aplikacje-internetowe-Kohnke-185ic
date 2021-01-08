@@ -3,8 +3,10 @@
     "",
     "\\image_parroter",
     "\\image_parroter\\image_parroter",
-    "\\image_parroter\\thumbnailer"
+    "\\image_parroter\\thumbnailer",
+    "\\image_parroter\\thumbnailer\\templates",
+    "\\image_parroter\\thumbnailer\\templates\\thumbnailer"
   ],
-  "SelectedNode": "\\image_parroter\\image_parroter\\settings.py",
+  "SelectedNode": "\\image_parroter\\image_parroter\\__init__.py",
   "PreviewInSolutionExplorer": false
 }
