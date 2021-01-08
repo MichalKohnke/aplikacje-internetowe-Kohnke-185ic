@@ -3,6 +3,11 @@
 
 						Sprawozdanie nr.6
 
+						Lab7 - Celery
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab7_celery/lab7_screeny/home.png)
+
+						Sprawozdanie nr.6
+
 						Lab6 - stworzona podstrona home, użytkownik niezalogowany 
 ![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab4/lab6_screeny/home_unlog.png)
 
