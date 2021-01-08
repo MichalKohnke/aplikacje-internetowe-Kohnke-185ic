@@ -1,7 +1,7 @@
 # aplikacje-internetowe-Kohnke-185ic
 # Autor: Michał Kohnke
 
-						Sprawozdanie nr.6
+						Sprawozdanie nr.7
 
 						Lab7 - Celery
 ![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab7_celery/lab7_screeny/home.png)
