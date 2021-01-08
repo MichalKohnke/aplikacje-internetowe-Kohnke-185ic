@@ -4,21 +4,21 @@
 						Sprawozdanie nr.6
 
 						Lab6 - stworzona podstrona home, użytkownik niezalogowany 
-![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab6/lab6_screeny/home_unlog.png)
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab4/lab6_screeny/home_unlog.png)
 
 						Lab6 - stworzona podstrona home, użytkownik zalogowany 
-![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab6/lab6_screeny/home_log.png)
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab4/lab6_screeny/home_log.png)
 
 						Sprawozdanie nr.4
 
 						Lab4 - API V1 
-![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab4/lab4_screeny/api_v1.png)
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab4_screeny/lab4_screeny/api_v1.png)
 
 						Lab4 - SWAGGER 
-![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab4/lab4_screeny/swagger.png)
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab4_screeny/lab4_screeny/swagger.png)
 
 						Lab4 - serializery i zezwolenia
-![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab4/lab4_screeny/serializers_and_permissions.png)
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab4_screeny/lab4_screeny/serializers_and_permissions.png)
 
 
 						Sprawozdanie nr.3
