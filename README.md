@@ -3,7 +3,7 @@
 
 						Sprawozdanie nr.8
 
-						Lab8 - signup 
+						Lab8 - plik  
 ![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab8/lab8_screeny/signup.png)
 
 						Lab8- login
@@ -17,6 +17,12 @@
 
 						Lab8- worker 2
 ![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab8/lab8_screeny/worker2.png)
+
+Komentarz: 
+- plik consumers.py - połączenie między klientem a serwerem, każdy połączony użytkownik będzie dodany do grupy 'users' i odbierał wiadomości od serwera. Wyświetlanie użytkowników oraz ich status połączenia(przygotowany model w models.py).
+- plik routing.py - podobne działanie do konfiguracji Django URL; korzystamy z channel_routing i route() zamiast urlpatterns i url(); linkowane są funkcje klienta do WebSocket.
+- plik a_base.html oraz jego rozszerzenie user_list.html - przygotowanie wiadomości obsługujących połączenie klienta z serwerem używająć WebSocket.
+- pliki sign_up.html oraz log_in.html - logowanie klienta(do tego odpowiednie urls'y oraz views'y).
 
 						Sprawozdanie nr.7
 
