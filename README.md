@@ -25,7 +25,7 @@ Komentarz:
 - pliki sign_up.html oraz log_in.html - logowanie klienta(do tego odpowiednie urls'y oraz views'y).
 Web Worker:
 - technologia pozwalająca wykonywać skrypty JavaScript w tle, równolegle do głównego wątku, dzięki czemu długo działające skrypty nie blokują interfejsu użytkownika.
-- event listener 'onmessage' - handler, który będzie reagował na widomości wysyłane przez workera.
+- event listener 'onmessage' - handler, który będzie reagował na wiadomości wysyłane przez workera.
 - funkcja 'postMessage' - wysłanie wiadomości do workera pracującego w tle odbywa się przy pomocy metody postMessage, wywołanej na obiekcie workera.
 
 						Sprawozdanie nr.7
