@@ -23,6 +23,7 @@ Komentarz:
 - plik routing.py - podobne działanie do konfiguracji Django URL; korzystamy z channel_routing i route() zamiast urlpatterns i url(); linkowane są funkcje klienta do WebSocket.
 - plik a_base.html oraz jego rozszerzenie user_list.html - przygotowanie wiadomości obsługujących połączenie klienta z serwerem używająć WebSocket.
 - pliki sign_up.html oraz log_in.html - logowanie klienta(do tego odpowiednie urls'y oraz views'y).
+
 Web Worker:
 - technologia pozwalająca wykonywać skrypty JavaScript w tle, równolegle do głównego wątku, dzięki czemu długo działające skrypty nie blokują interfejsu użytkownika.
 - event listener 'onmessage' - handler, który będzie reagował na wiadomości wysyłane przez workera.
