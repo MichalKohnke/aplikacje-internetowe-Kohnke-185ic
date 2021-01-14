@@ -1,6 +1,23 @@
 # aplikacje-internetowe-Kohnke-185ic
 # Autor: Michał Kohnke
 
+						Sprawozdanie nr.8
+
+						Lab8 - signup 
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab8/lab8_screeny/signup.png)
+
+						Lab8- login
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab8/lab8_screeny/login.png)
+
+						Lab8- user_list
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab8/lab8_screeny/user_list.png)
+
+						Lab8- worker 1
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab8/lab8_screeny/worker1.png)
+
+						Lab8- worker 2
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab8/lab8_screeny/worker2.png)
+
 						Sprawozdanie nr.7
 
 						Lab7 - Celery
