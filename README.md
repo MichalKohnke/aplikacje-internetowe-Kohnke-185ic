@@ -1,6 +1,17 @@
 # aplikacje-internetowe-Kohnke-185ic
 # Autor: Michał Kohnke
 
+						Sprawozdanie nr.9
+
+						Lab9   
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab9/lab9_screeny/index.png)
+
+						Lab9
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab9/lab9_screeny/npm.png)
+
+						Lab9
+![alt text](https://github.com/MichalKohnke/aplikacje-internetowe-Kohnke-185ic/blob/master/lab9/lab9_screeny/npm_dodanie.png)
+
 						Sprawozdanie nr.8
 
 						Lab8 - plik  
